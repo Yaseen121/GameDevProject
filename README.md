@@ -1,4 +1,4 @@
-# Multi-Platform Game Development Project - A Local Multiplayer Platforming Game
+# Multi-Platform Game Development Project - A Local Multiplayer Platforming Game (Spring 2019)
 A desktop game called The Great Escape, built with the Unity3D game engine.
 
 ### Overview and Video Demo
